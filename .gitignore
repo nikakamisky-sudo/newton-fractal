@@ -3,3 +3,4 @@ __pycache__/
 fractal.npy
 .venv/
 venv/
+/montecarlo/
